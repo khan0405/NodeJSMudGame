@@ -8,8 +8,8 @@
 
 ### Open Source Mud Game List
 
-- **RanvierMUD**
+* **RanvierMUD**
  
--- https://github.com/shawncplus/ranviermud
+- https://github.com/shawncplus/ranviermud
 
--- http://www.ranviermud.com/
+- http://www.ranviermud.com/
