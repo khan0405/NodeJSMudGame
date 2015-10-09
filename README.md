@@ -6,6 +6,6 @@
 
 ### Open Source Mud Game List
 
-- *RanvierMUD*
+- **RanvierMUD**
 -- https://github.com/shawncplus/ranviermud
 -- http://www.ranviermud.com/
