@@ -30,11 +30,9 @@
 - http://www.mudconnect.com/
 
 - **Legends of Terris**
- 
  - http://www.legendsofterris.com/
 
 - **Sindome**
-
  - http://www.sindome.org/
 
 
